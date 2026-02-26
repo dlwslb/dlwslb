@@ -1,4 +1,13 @@
 ## 👋 Hi
+## 🛠 技术栈
+
+### 编程语言
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="30" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
+</p>
 
 <!--
 **dlwslb/dlwslb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
